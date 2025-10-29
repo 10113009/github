@@ -2,23 +2,23 @@
   {
     "name": "OpenAI",
     "login": "openai",
-    "followers": 107145,
-    "public_repos": 224,
+    "followers": 107244,
+    "public_repos": 225,
     "created_at": "2015-10-03T19:34:05Z",
     "html_url": "https://github.com/openai"
   },
   {
     "name": "Microsoft",
     "login": "microsoft",
-    "followers": 105416,
-    "public_repos": 7269,
+    "followers": 105549,
+    "public_repos": 7276,
     "created_at": "2013-12-10T19:06:48Z",
     "html_url": "https://github.com/microsoft"
   },
   {
     "name": "DeepSeek",
     "login": "deepseek-ai",
-    "followers": 81734,
+    "followers": 81819,
     "public_repos": 28,
     "created_at": "2023-10-18T09:17:52Z",
     "html_url": "https://github.com/deepseek-ai"
@@ -26,23 +26,23 @@
   {
     "name": "GitHub",
     "login": "github",
-    "followers": 62100,
-    "public_repos": 527,
+    "followers": 62250,
+    "public_repos": 528,
     "created_at": "2008-05-11T04:37:31Z",
     "html_url": "https://github.com/github"
   },
   {
     "name": "Google",
     "login": "google",
-    "followers": 61894,
-    "public_repos": 2807,
+    "followers": 61964,
+    "public_repos": 2808,
     "created_at": "2012-01-18T01:30:18Z",
     "html_url": "https://github.com/google"
   },
   {
     "name": "The Algorithms",
     "login": "TheAlgorithms",
-    "followers": 55872,
+    "followers": 55937,
     "public_repos": 44,
     "created_at": "2016-07-16T08:17:02Z",
     "html_url": "https://github.com/TheAlgorithms"
@@ -50,7 +50,7 @@
   {
     "name": "Hugging Face",
     "login": "huggingface",
-    "followers": 55194,
+    "followers": 55259,
     "public_repos": 362,
     "created_at": "2017-02-12T11:20:28Z",
     "html_url": "https://github.com/huggingface"
@@ -58,7 +58,7 @@
   {
     "name": "Epic Games",
     "login": "EpicGames",
-    "followers": 46310,
+    "followers": 46355,
     "public_repos": 12,
     "created_at": "2014-02-07T13:01:43Z",
     "html_url": "https://github.com/EpicGames"
@@ -66,7 +66,7 @@
   {
     "name": "Model Context Protocol",
     "login": "modelcontextprotocol",
-    "followers": 38487,
+    "followers": 38607,
     "public_repos": 27,
     "created_at": "2024-09-20T20:53:28Z",
     "html_url": "https://github.com/modelcontextprotocol"
@@ -74,15 +74,15 @@
   {
     "name": "Apple",
     "login": "apple",
-    "followers": 32883,
-    "public_repos": 359,
+    "followers": 32947,
+    "public_repos": 361,
     "created_at": "2015-01-21T20:19:28Z",
     "html_url": "https://github.com/apple"
   },
   {
     "name": "Meta",
     "login": "facebook",
-    "followers": 32782,
+    "followers": 32805,
     "public_repos": 153,
     "created_at": "2009-04-02T03:35:22Z",
     "html_url": "https://github.com/facebook"
@@ -90,7 +90,7 @@
   {
     "name": "Meta Research",
     "login": "facebookresearch",
-    "followers": 32151,
+    "followers": 32170,
     "public_repos": 1270,
     "created_at": "2016-01-28T18:56:55Z",
     "html_url": "https://github.com/facebookresearch"
@@ -98,7 +98,7 @@
   {
     "name": "freeCodeCamp.org",
     "login": "freeCodeCamp",
-    "followers": 30915,
+    "followers": 30941,
     "public_repos": 238,
     "created_at": "2014-11-22T00:12:57Z",
     "html_url": "https://github.com/freeCodeCamp"
@@ -106,7 +106,7 @@
   {
     "name": "Python",
     "login": "python",
-    "followers": 28167,
+    "followers": 28189,
     "public_repos": 89,
     "created_at": "2012-03-11T15:56:37Z",
     "html_url": "https://github.com/python"
@@ -114,15 +114,15 @@
   {
     "name": "GPU.net",
     "login": "brahmGAN",
-    "followers": 27602,
-    "public_repos": 17,
+    "followers": 27599,
+    "public_repos": 18,
     "created_at": "2023-02-24T23:26:37Z",
     "html_url": "https://github.com/brahmGAN"
   },
   {
     "name": "ReVanced",
     "login": "ReVanced",
-    "followers": 25908,
+    "followers": 25938,
     "public_repos": 43,
     "created_at": "2022-03-14T19:42:45Z",
     "html_url": "https://github.com/ReVanced"
@@ -130,7 +130,7 @@
   {
     "name": "GitHub Community",
     "login": "community",
-    "followers": 24656,
+    "followers": 24699,
     "public_repos": 4,
     "created_at": "2021-11-05T15:55:03Z",
     "html_url": "https://github.com/community"
@@ -138,7 +138,7 @@
   {
     "name": "Visual Studio Code",
     "login": "Visual-Studio-Code",
-    "followers": 24027,
+    "followers": 24091,
     "public_repos": 1,
     "created_at": "2020-02-15T00:02:35Z",
     "html_url": "https://github.com/Visual-Studio-Code"
@@ -146,7 +146,7 @@
   {
     "name": "Vercel",
     "login": "vercel",
-    "followers": 24018,
+    "followers": 24057,
     "public_repos": 195,
     "created_at": "2015-10-05T19:40:30Z",
     "html_url": "https://github.com/vercel"
@@ -154,7 +154,7 @@
   {
     "name": "Microsoft-Corporation",
     "login": "Microsoft-corp",
-    "followers": 22603,
+    "followers": 22799,
     "public_repos": 0,
     "created_at": "2018-03-07T22:36:56Z",
     "html_url": "https://github.com/Microsoft-corp"
@@ -162,7 +162,7 @@
   {
     "name": ".NET Platform",
     "login": "dotnet",
-    "followers": 20713,
+    "followers": 20729,
     "public_repos": 275,
     "created_at": "2014-10-10T20:31:36Z",
     "html_url": "https://github.com/dotnet"
@@ -170,7 +170,7 @@
   {
     "name": "Flutter",
     "login": "flutter",
-    "followers": 20572,
+    "followers": 20577,
     "public_repos": 36,
     "created_at": "2015-09-03T00:37:37Z",
     "html_url": "https://github.com/flutter"
@@ -178,7 +178,7 @@
   {
     "name": "The Apache Software Foundation",
     "login": "apache",
-    "followers": 20233,
+    "followers": 20261,
     "public_repos": 2828,
     "created_at": "2009-01-17T20:14:40Z",
     "html_url": "https://github.com/apache"
@@ -186,7 +186,7 @@
   {
     "name": null,
     "login": "tensorflow",
-    "followers": 19916,
+    "followers": 19923,
     "public_repos": 107,
     "created_at": "2015-11-04T19:32:50Z",
     "html_url": "https://github.com/tensorflow"
@@ -194,15 +194,15 @@
   {
     "name": "NVIDIA Corporation",
     "login": "NVIDIA",
-    "followers": 19508,
-    "public_repos": 616,
+    "followers": 19547,
+    "public_repos": 620,
     "created_at": "2012-05-10T22:06:34Z",
     "html_url": "https://github.com/NVIDIA"
   },
   {
     "name": "Vue",
     "login": "vuejs",
-    "followers": 19481,
+    "followers": 19495,
     "public_repos": 124,
     "created_at": "2013-12-07T06:13:00Z",
     "html_url": "https://github.com/vuejs"
@@ -210,7 +210,7 @@
   {
     "name": "Google DeepMind",
     "login": "google-deepmind",
-    "followers": 19144,
+    "followers": 19194,
     "public_repos": 366,
     "created_at": "2014-08-30T05:33:51Z",
     "html_url": "https://github.com/google-deepmind"
@@ -218,7 +218,7 @@
   {
     "name": "CS50",
     "login": "cs50",
-    "followers": 18766,
+    "followers": 18788,
     "public_repos": 129,
     "created_at": "2011-05-15T03:15:28Z",
     "html_url": "https://github.com/cs50"
@@ -226,39 +226,39 @@
   {
     "name": "Termux",
     "login": "termux",
-    "followers": 18606,
+    "followers": 18631,
     "public_repos": 61,
     "created_at": "2014-07-08T16:02:31Z",
     "html_url": "https://github.com/termux"
   },
   {
-    "name": "Alibaba",
-    "login": "alibaba",
-    "followers": 17562,
-    "public_repos": 474,
-    "created_at": "2012-07-12T08:40:35Z",
-    "html_url": "https://github.com/alibaba"
-  },
-  {
     "name": "Datawhale",
     "login": "datawhalechina",
-    "followers": 17548,
+    "followers": 17593,
     "public_repos": 171,
     "created_at": "2018-12-21T11:17:27Z",
     "html_url": "https://github.com/datawhalechina"
   },
   {
+    "name": "Alibaba",
+    "login": "alibaba",
+    "followers": 17582,
+    "public_repos": 475,
+    "created_at": "2012-07-12T08:40:35Z",
+    "html_url": "https://github.com/alibaba"
+  },
+  {
     "name": "Packt",
     "login": "PacktPublishing",
-    "followers": 17424,
-    "public_repos": 9149,
+    "followers": 17437,
+    "public_repos": 9150,
     "created_at": "2015-02-12T10:36:37Z",
     "html_url": "https://github.com/PacktPublishing"
   },
   {
     "name": "Android",
     "login": "android",
-    "followers": 16840,
+    "followers": 16863,
     "public_repos": 142,
     "created_at": "2017-10-10T23:00:21Z",
     "html_url": "https://github.com/android"
@@ -266,23 +266,23 @@
   {
     "name": "Google Cloud Platform",
     "login": "GoogleCloudPlatform",
-    "followers": 16416,
-    "public_repos": 1414,
+    "followers": 16443,
+    "public_repos": 1415,
     "created_at": "2012-11-16T04:52:17Z",
     "html_url": "https://github.com/GoogleCloudPlatform"
   },
   {
     "name": "AWS Samples",
     "login": "aws-samples",
-    "followers": 16284,
-    "public_repos": 7556,
+    "followers": 16298,
+    "public_repos": 7566,
     "created_at": "2014-09-26T17:29:50Z",
     "html_url": "https://github.com/aws-samples"
   },
   {
     "name": "Home Assistant",
     "login": "home-assistant",
-    "followers": 15889,
+    "followers": 15912,
     "public_repos": 103,
     "created_at": "2015-08-18T04:27:28Z",
     "html_url": "https://github.com/home-assistant"
@@ -290,7 +290,7 @@
   {
     "name": "The Rust Programming Language",
     "login": "rust-lang",
-    "followers": 15132,
+    "followers": 15152,
     "public_repos": 232,
     "created_at": "2013-09-10T21:48:20Z",
     "html_url": "https://github.com/rust-lang"
@@ -298,7 +298,7 @@
   {
     "name": "Spring",
     "login": "spring-projects",
-    "followers": 15099,
+    "followers": 15111,
     "public_repos": 86,
     "created_at": "2010-06-29T18:58:02Z",
     "html_url": "https://github.com/spring-projects"
@@ -306,15 +306,15 @@
   {
     "name": "Node.js",
     "login": "nodejs",
-    "followers": 14914,
-    "public_repos": 227,
+    "followers": 14930,
+    "public_repos": 228,
     "created_at": "2014-11-25T17:10:50Z",
     "html_url": "https://github.com/nodejs"
   },
   {
     "name": "Anthropic",
     "login": "anthropics",
-    "followers": 14616,
+    "followers": 14722,
     "public_repos": 54,
     "created_at": "2020-12-19T18:49:20Z",
     "html_url": "https://github.com/anthropics"
@@ -322,7 +322,7 @@
   {
     "name": "X (fka Twitter)",
     "login": "twitter",
-    "followers": 14296,
+    "followers": 14293,
     "public_repos": 101,
     "created_at": "2009-01-29T19:12:31Z",
     "html_url": "https://github.com/twitter"
@@ -330,7 +330,7 @@
   {
     "name": null,
     "login": "ethereum",
-    "followers": 14183,
+    "followers": 14195,
     "public_repos": 290,
     "created_at": "2013-12-24T00:26:58Z",
     "html_url": "https://github.com/ethereum"
@@ -338,7 +338,7 @@
   {
     "name": "CodeCrafters",
     "login": "codecrafters-io",
-    "followers": 13837,
+    "followers": 13865,
     "public_repos": 130,
     "created_at": "2019-12-15T10:01:57Z",
     "html_url": "https://github.com/codecrafters-io"
@@ -346,7 +346,7 @@
   {
     "name": "Open Source Society University",
     "login": "ossu",
-    "followers": 13810,
+    "followers": 13822,
     "public_repos": 10,
     "created_at": "2015-10-03T20:04:51Z",
     "html_url": "https://github.com/ossu"
@@ -354,31 +354,31 @@
   {
     "name": "Bytedance Inc.",
     "login": "bytedance",
-    "followers": 13768,
+    "followers": 13780,
     "public_repos": 386,
     "created_at": "2013-04-15T08:03:53Z",
     "html_url": "https://github.com/bytedance"
   },
   {
+    "name": "Amazon Web Services",
+    "login": "aws",
+    "followers": 13488,
+    "public_repos": 513,
+    "created_at": "2012-08-28T05:37:55Z",
+    "html_url": "https://github.com/aws"
+  },
+  {
     "name": "Bootstrap",
     "login": "twbs",
-    "followers": 13484,
+    "followers": 13486,
     "public_repos": 26,
     "created_at": "2012-11-29T05:47:03Z",
     "html_url": "https://github.com/twbs"
   },
   {
-    "name": "Amazon Web Services",
-    "login": "aws",
-    "followers": 13462,
-    "public_repos": 512,
-    "created_at": "2012-08-28T05:37:55Z",
-    "html_url": "https://github.com/aws"
-  },
-  {
     "name": "Microsoft Azure",
     "login": "Azure",
-    "followers": 13376,
+    "followers": 13389,
     "public_repos": 2602,
     "created_at": "2014-03-03T22:17:42Z",
     "html_url": "https://github.com/Azure"
@@ -386,15 +386,23 @@
   {
     "name": "Google Research",
     "login": "google-research",
-    "followers": 13341,
+    "followers": 13360,
     "public_repos": 332,
     "created_at": "2018-10-03T21:40:41Z",
     "html_url": "https://github.com/google-research"
   },
   {
+    "name": "LangChain",
+    "login": "langchain-ai",
+    "followers": 13269,
+    "public_repos": 226,
+    "created_at": "2023-03-02T00:37:16Z",
+    "html_url": "https://github.com/langchain-ai"
+  },
+  {
     "name": "Stability AI",
     "login": "Stability-AI",
-    "followers": 13243,
+    "followers": 13248,
     "public_repos": 98,
     "created_at": "2022-03-04T14:43:29Z",
     "html_url": "https://github.com/Stability-AI"
@@ -402,23 +410,15 @@
   {
     "name": "Flipper Devices",
     "login": "flipperdevices",
-    "followers": 13221,
+    "followers": 13236,
     "public_repos": 98,
     "created_at": "2019-11-09T23:05:27Z",
     "html_url": "https://github.com/flipperdevices"
   },
   {
-    "name": "LangChain",
-    "login": "langchain-ai",
-    "followers": 13207,
-    "public_repos": 224,
-    "created_at": "2023-03-02T00:37:16Z",
-    "html_url": "https://github.com/langchain-ai"
-  },
-  {
     "name": "Tachiyomi",
     "login": "tachiyomiorg",
-    "followers": 12888,
+    "followers": 12962,
     "public_repos": 14,
     "created_at": "2019-07-25T12:00:53Z",
     "html_url": "https://github.com/tachiyomiorg"
@@ -426,7 +426,7 @@
   {
     "name": "Docker",
     "login": "docker",
-    "followers": 12423,
+    "followers": 12447,
     "public_repos": 143,
     "created_at": "2013-09-10T17:53:43Z",
     "html_url": "https://github.com/docker"
@@ -434,7 +434,7 @@
   {
     "name": "Charm",
     "login": "charmbracelet",
-    "followers": 12371,
+    "followers": 12388,
     "public_repos": 52,
     "created_at": "2019-11-04T23:27:11Z",
     "html_url": "https://github.com/charmbracelet"
@@ -442,7 +442,7 @@
   {
     "name": "Kubernetes",
     "login": "kubernetes",
-    "followers": 12299,
+    "followers": 12310,
     "public_repos": 79,
     "created_at": "2015-08-03T17:55:43Z",
     "html_url": "https://github.com/kubernetes"
@@ -450,7 +450,7 @@
   {
     "name": "Tencent",
     "login": "Tencent",
-    "followers": 12097,
+    "followers": 12108,
     "public_repos": 222,
     "created_at": "2016-04-14T10:38:57Z",
     "html_url": "https://github.com/Tencent"
@@ -458,7 +458,7 @@
   {
     "name": null,
     "login": "pytorch",
-    "followers": 11962,
+    "followers": 11973,
     "public_repos": 67,
     "created_at": "2016-08-13T05:07:47Z",
     "html_url": "https://github.com/pytorch"
@@ -466,7 +466,7 @@
   {
     "name": "OpenMMLab",
     "login": "open-mmlab",
-    "followers": 11917,
+    "followers": 11921,
     "public_repos": 54,
     "created_at": "2014-12-19T16:17:27Z",
     "html_url": "https://github.com/open-mmlab"
@@ -474,31 +474,31 @@
   {
     "name": "Unity Technologies",
     "login": "Unity-Technologies",
-    "followers": 11719,
+    "followers": 11730,
     "public_repos": 790,
     "created_at": "2010-10-04T09:37:48Z",
     "html_url": "https://github.com/Unity-Technologies"
   },
   {
-    "name": "UpRock",
-    "login": "uprockcom",
-    "followers": 11711,
-    "public_repos": 11,
-    "created_at": "2022-04-08T14:46:29Z",
-    "html_url": "https://github.com/uprockcom"
-  },
-  {
     "name": "MDN Web Docs",
     "login": "mdn",
-    "followers": 11709,
+    "followers": 11712,
     "public_repos": 133,
     "created_at": "2014-05-13T05:15:05Z",
     "html_url": "https://github.com/mdn"
   },
   {
+    "name": "UpRock",
+    "login": "uprockcom",
+    "followers": 11712,
+    "public_repos": 11,
+    "created_at": "2022-04-08T14:46:29Z",
+    "html_url": "https://github.com/uprockcom"
+  },
+  {
     "name": "JetBrains",
     "login": "JetBrains",
-    "followers": 11661,
+    "followers": 11676,
     "public_repos": 761,
     "created_at": "2011-06-27T10:06:52Z",
     "html_url": "https://github.com/JetBrains"
@@ -506,7 +506,7 @@
   {
     "name": "Qwen",
     "login": "QwenLM",
-    "followers": 11573,
+    "followers": 11624,
     "public_repos": 33,
     "created_at": "2023-08-02T08:18:52Z",
     "html_url": "https://github.com/QwenLM"
@@ -514,7 +514,7 @@
   {
     "name": "THUKEG",
     "login": "THUDM",
-    "followers": 11206,
+    "followers": 11210,
     "public_repos": 124,
     "created_at": "2019-03-15T11:48:46Z",
     "html_url": "https://github.com/THUDM"
@@ -522,7 +522,7 @@
   {
     "name": "Intel-Innersource",
     "login": "intel-innersource",
-    "followers": 11129,
+    "followers": 11148,
     "public_repos": 0,
     "created_at": "2019-09-13T17:06:48Z",
     "html_url": "https://github.com/intel-innersource"
@@ -530,7 +530,7 @@
   {
     "name": "Netlify",
     "login": "netlify",
-    "followers": 11106,
+    "followers": 11118,
     "public_repos": 364,
     "created_at": "2014-06-15T06:49:35Z",
     "html_url": "https://github.com/netlify"
@@ -538,7 +538,7 @@
   {
     "name": "Go",
     "login": "golang",
-    "followers": 10929,
+    "followers": 10936,
     "public_repos": 61,
     "created_at": "2013-05-01T18:00:52Z",
     "html_url": "https://github.com/golang"
@@ -546,7 +546,7 @@
   {
     "name": "Replicate",
     "login": "replicate",
-    "followers": 10782,
+    "followers": 10786,
     "public_repos": 161,
     "created_at": "2020-01-28T22:43:57Z",
     "html_url": "https://github.com/replicate"
@@ -554,7 +554,7 @@
   {
     "name": null,
     "login": "EurekaLabsAI",
-    "followers": 10718,
+    "followers": 10753,
     "public_repos": 4,
     "created_at": "2024-07-08T17:43:40Z",
     "html_url": "https://github.com/EurekaLabsAI"
@@ -562,31 +562,31 @@
   {
     "name": "Valve Software",
     "login": "ValveSoftware",
-    "followers": 10407,
+    "followers": 10422,
     "public_repos": 53,
     "created_at": "2012-12-19T17:20:48Z",
     "html_url": "https://github.com/ValveSoftware"
   },
   {
-    "name": "The Odin Project",
-    "login": "TheOdinProject",
-    "followers": 10361,
-    "public_repos": 21,
-    "created_at": "2013-05-15T22:05:47Z",
-    "html_url": "https://github.com/TheOdinProject"
-  },
-  {
     "name": "Tsoding",
     "login": "tsoding",
-    "followers": 10360,
+    "followers": 10374,
     "public_repos": 287,
     "created_at": "2016-04-21T14:33:11Z",
     "html_url": "https://github.com/tsoding"
   },
   {
+    "name": "The Odin Project",
+    "login": "TheOdinProject",
+    "followers": 10369,
+    "public_repos": 21,
+    "created_at": "2013-05-15T22:05:47Z",
+    "html_url": "https://github.com/TheOdinProject"
+  },
+  {
     "name": "Godot Engine",
     "login": "godotengine",
-    "followers": 10169,
+    "followers": 10179,
     "public_repos": 66,
     "created_at": "2014-01-04T16:03:17Z",
     "html_url": "https://github.com/godotengine"
@@ -594,7 +594,7 @@
   {
     "name": "n8n - Workflow Automation",
     "login": "n8n-io",
-    "followers": 10053,
+    "followers": 10098,
     "public_repos": 38,
     "created_at": "2018-11-30T12:19:59Z",
     "html_url": "https://github.com/n8n-io"
@@ -602,7 +602,7 @@
   {
     "name": "ProjectDiscovery",
     "login": "projectdiscovery",
-    "followers": 9937,
+    "followers": 9951,
     "public_repos": 116,
     "created_at": "2019-05-24T14:33:32Z",
     "html_url": "https://github.com/projectdiscovery"
@@ -610,7 +610,7 @@
   {
     "name": "LM Studio",
     "login": "lmstudio-ai",
-    "followers": 9876,
+    "followers": 9885,
     "public_repos": 11,
     "created_at": "2023-05-16T06:40:43Z",
     "html_url": "https://github.com/lmstudio-ai"
@@ -618,7 +618,7 @@
   {
     "name": "Mozilla",
     "login": "mozilla",
-    "followers": 9824,
+    "followers": 9827,
     "public_repos": 2483,
     "created_at": "2009-09-26T08:22:18Z",
     "html_url": "https://github.com/mozilla"
@@ -626,7 +626,7 @@
   {
     "name": "Scroll",
     "login": "scroll-tech",
-    "followers": 9809,
+    "followers": 9808,
     "public_repos": 145,
     "created_at": "2021-07-21T07:01:03Z",
     "html_url": "https://github.com/scroll-tech"
@@ -634,7 +634,7 @@
   {
     "name": "Free Ebook Foundation",
     "login": "EbookFoundation",
-    "followers": 9775,
+    "followers": 9786,
     "public_repos": 37,
     "created_at": "2015-09-04T14:12:36Z",
     "html_url": "https://github.com/EbookFoundation"
@@ -642,7 +642,7 @@
   {
     "name": "Cloudflare",
     "login": "cloudflare",
-    "followers": 9743,
+    "followers": 9773,
     "public_repos": 526,
     "created_at": "2010-06-25T01:24:59Z",
     "html_url": "https://github.com/cloudflare"
@@ -650,7 +650,7 @@
   {
     "name": "Meta Llama",
     "login": "meta-llama",
-    "followers": 9706,
+    "followers": 9716,
     "public_repos": 12,
     "created_at": "2023-12-09T15:49:39Z",
     "html_url": "https://github.com/meta-llama"
@@ -658,15 +658,15 @@
   {
     "name": "Amazon Web Services - Labs",
     "login": "awslabs",
-    "followers": 9652,
-    "public_repos": 945,
+    "followers": 9669,
+    "public_repos": 946,
     "created_at": "2013-01-17T19:11:21Z",
     "html_url": "https://github.com/awslabs"
   },
   {
     "name": "Laravel",
     "login": "laravel",
-    "followers": 9619,
+    "followers": 9635,
     "public_repos": 109,
     "created_at": "2011-08-04T03:44:54Z",
     "html_url": "https://github.com/laravel"
@@ -674,7 +674,7 @@
   {
     "name": "HashiCorp",
     "login": "hashicorp",
-    "followers": 9500,
+    "followers": 9505,
     "public_repos": 923,
     "created_at": "2011-05-01T04:13:12Z",
     "html_url": "https://github.com/hashicorp"
@@ -682,15 +682,15 @@
   {
     "name": "GitHub Skills",
     "login": "skills",
-    "followers": 9420,
-    "public_repos": 40,
+    "followers": 9432,
+    "public_repos": 41,
     "created_at": "2022-04-15T19:04:31Z",
     "html_url": "https://github.com/skills"
   },
   {
     "name": "Ecma TC39",
     "login": "tc39",
-    "followers": 9360,
+    "followers": 9371,
     "public_repos": 308,
     "created_at": "2012-05-10T07:17:29Z",
     "html_url": "https://github.com/tc39"
@@ -698,15 +698,15 @@
   {
     "name": "OWASP",
     "login": "OWASP",
-    "followers": 9297,
-    "public_repos": 1325,
+    "followers": 9314,
+    "public_repos": 1326,
     "created_at": "2009-11-20T06:56:22Z",
     "html_url": "https://github.com/OWASP"
   },
   {
     "name": "Poimandres",
     "login": "pmndrs",
-    "followers": 9254,
+    "followers": 9255,
     "public_repos": 88,
     "created_at": "2018-12-11T12:49:48Z",
     "html_url": "https://github.com/pmndrs"
@@ -714,7 +714,7 @@
   {
     "name": "Discord",
     "login": "discord",
-    "followers": 9167,
+    "followers": 9183,
     "public_repos": 315,
     "created_at": "2012-07-12T19:03:26Z",
     "html_url": "https://github.com/discord"
@@ -722,7 +722,7 @@
   {
     "name": "Obsidian.md",
     "login": "obsidianmd",
-    "followers": 9061,
+    "followers": 9074,
     "public_repos": 13,
     "created_at": "2020-05-08T07:55:09Z",
     "html_url": "https://github.com/obsidianmd"
@@ -730,7 +730,7 @@
   {
     "name": "Visual Studio Code for CS50",
     "login": "code50",
-    "followers": 9005,
+    "followers": 9017,
     "public_repos": 0,
     "created_at": "2021-08-23T01:58:27Z",
     "html_url": "https://github.com/code50"
@@ -738,7 +738,7 @@
   {
     "name": "Ultralytics",
     "login": "ultralytics",
-    "followers": 8984,
+    "followers": 9014,
     "public_repos": 47,
     "created_at": "2017-04-01T07:59:53Z",
     "html_url": "https://github.com/ultralytics"
@@ -746,7 +746,7 @@
   {
     "name": "Django",
     "login": "django",
-    "followers": 8981,
+    "followers": 8982,
     "public_repos": 29,
     "created_at": "2008-10-06T19:43:18Z",
     "html_url": "https://github.com/django"
@@ -754,7 +754,7 @@
   {
     "name": "Netflix, Inc.",
     "login": "Netflix",
-    "followers": 8885,
+    "followers": 8897,
     "public_repos": 234,
     "created_at": "2011-07-13T20:20:01Z",
     "html_url": "https://github.com/Netflix"
@@ -762,7 +762,7 @@
   {
     "name": "Curso em Vídeo",
     "login": "cursoemvideo",
-    "followers": 8850,
+    "followers": 8854,
     "public_repos": 5,
     "created_at": "2014-09-07T03:58:13Z",
     "html_url": "https://github.com/cursoemvideo"
@@ -770,7 +770,7 @@
   {
     "name": "Asahi Linux",
     "login": "AsahiLinux",
-    "followers": 8797,
+    "followers": 8805,
     "public_repos": 39,
     "created_at": "2020-12-17T09:47:35Z",
     "html_url": "https://github.com/AsahiLinux"
@@ -778,25 +778,25 @@
   {
     "name": "DAIR.AI",
     "login": "dair-ai",
-    "followers": 8767,
+    "followers": 8778,
     "public_repos": 58,
     "created_at": "2017-07-23T08:57:58Z",
     "html_url": "https://github.com/dair-ai"
   },
   {
-    "name": "Nextcloud",
-    "login": "nextcloud",
-    "followers": 8704,
-    "public_repos": 349,
-    "created_at": "2016-05-05T17:12:23Z",
-    "html_url": "https://github.com/nextcloud"
-  },
-  {
     "name": "Intel-Sandbox",
     "login": "intel-sandbox",
-    "followers": 8702,
+    "followers": 8719,
     "public_repos": 0,
     "created_at": "2020-03-12T22:14:20Z",
     "html_url": "https://github.com/intel-sandbox"
+  },
+  {
+    "name": "Nextcloud",
+    "login": "nextcloud",
+    "followers": 8718,
+    "public_repos": 349,
+    "created_at": "2016-05-05T17:12:23Z",
+    "html_url": "https://github.com/nextcloud"
   }
 ]
